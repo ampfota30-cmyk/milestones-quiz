@@ -1,5 +1,5 @@
 
-# Milestone Quiz (Streamlit)
+# Milestone Quiz
 
 100-item developmental milestones quiz with recall, computation, cases, red flags, reflexes, and drawing skills.
 Styled like the website version. Runs entirely in Streamlit.
