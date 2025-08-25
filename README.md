@@ -2,7 +2,6 @@
 # Milestone Quiz
 
 100-item developmental milestones quiz with recall, computation, cases, red flags, reflexes, and drawing skills.
-Styled like the website version. Runs entirely in Streamlit.
 
 ## Files
 - `milestone_quiz_webstyle.py` — main app (entry file)
